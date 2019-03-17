@@ -1,0 +1,1292 @@
+[
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552777018066,
+            "changeTime": 1552777018066,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552777018066,
+            "changeTime": 1552777018066,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552835950698,
+            "changeTime": 1552835950698,
+            "contentHash": "70689f0d5996e8bf8b640ea3fd0b99e29f7c1eeb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552837671384,
+            "changeTime": 1552837671384,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552802060972,
+            "changeTime": 1552802060972,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552802060971,
+            "changeTime": 1552802060971,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 542,
+            "modifiedTime": 1552837760662,
+            "changeTime": 1552837760662,
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1552802060955,
+            "changeTime": 1552802060955,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1552802190391,
+            "changeTime": 1552802190391,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552802060973,
+            "changeTime": 1552802060973,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552802060968,
+            "changeTime": 1552802060968,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 375,
+            "modifiedTime": 1552837800572,
+            "changeTime": 1552837800572,
+            "contentHash": "c148935ac05c49dcb04e42f270a21822bd15e04b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552802060961,
+            "changeTime": 1552802060961,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552802060966,
+            "changeTime": 1552802060966,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552801915605,
+            "changeTime": 1552801915605,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552801915604,
+            "changeTime": 1552801915604,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1552801992852,
+            "changeTime": 1552801992852,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1552801915586,
+            "changeTime": 1552801915586,
+            "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1552802052705,
+            "changeTime": 1552802052705,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552801915606,
+            "changeTime": 1552801915606,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552801915601,
+            "changeTime": 1552801915601,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1552801915592,
+            "changeTime": 1552801915592,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552801915594,
+            "changeTime": 1552801915594,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552801915599,
+            "changeTime": 1552801915599,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552801249425,
+            "changeTime": 1552801249425,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552801249424,
+            "changeTime": 1552801249424,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1552836292125,
+            "changeTime": 1552836292125,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1552801249410,
+            "changeTime": 1552801249410,
+            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1552801330657,
+            "changeTime": 1552801330657,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552801249426,
+            "changeTime": 1552801249426,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552801249422,
+            "changeTime": 1552801249422,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1552801249413,
+            "changeTime": 1552801249413,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552801249415,
+            "changeTime": 1552801249415,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552801249420,
+            "changeTime": 1552801249420,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552836055347,
+            "changeTime": 1552836055347,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552836055346,
+            "changeTime": 1552836055346,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1552837881504,
+            "changeTime": 1552837881504,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1552836055325,
+            "changeTime": 1552836055325,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552836273625,
+            "changeTime": 1552836273625,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552836055349,
+            "changeTime": 1552836055349,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552836055343,
+            "changeTime": 1552836055343,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 794,
+            "modifiedTime": 1552837898253,
+            "changeTime": 1552837898253,
+            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552836055332,
+            "changeTime": 1552836055332,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552836055340,
+            "changeTime": 1552836055340,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552837671388,
+            "changeTime": 1552837671388,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1552837697794,
+            "changeTime": 1552837697794,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1552837671395,
+            "changeTime": 1552837671395,
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552802642307,
+            "changeTime": 1552802642307,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1552802722042,
+            "changeTime": 1552802722042,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1552802642310,
+            "changeTime": 1552802642310,
+            "contentHash": "bc0ab4bf7088acef71786258da234b8557182655",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552783439890,
+            "changeTime": 1552783439890,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1552783439871,
+            "changeTime": 1552783439871,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1552783439895,
+            "changeTime": 1552783439895,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1552783439883,
+            "changeTime": 1552783439883,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1552783439855,
+            "changeTime": 1552783439855,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552780482665,
+            "changeTime": 1552780482665,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552783439831,
+            "changeTime": 1552783439831,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552783439832,
+            "changeTime": 1552783439832,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552783439835,
+            "changeTime": 1552783439835,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1552783439839,
+            "changeTime": 1552783439839,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552783439899,
+            "changeTime": 1552783439899,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 702,
+            "modifiedTime": 1552783439900,
+            "changeTime": 1552783439900,
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552786503311,
+            "changeTime": 1552786503311,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19084,
+            "modifiedTime": 1552835951543,
+            "changeTime": 1552835951543,
+            "contentHash": "d87492d54f8ce81c4dfe802fb10fda47a7bcfee9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4959,
+            "modifiedTime": 1552801773293,
+            "changeTime": 1552801773293,
+            "contentHash": "31fb6c1de2f97d31795b58816d993b2d6b977e28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4955,
+            "modifiedTime": 1552801773150,
+            "changeTime": 1552801773150,
+            "contentHash": "cfb26f0fcb5d05479687a5c1e533b3e0f59518f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5295,
+            "modifiedTime": 1552801773268,
+            "changeTime": 1552801773268,
+            "contentHash": "c296569cd2399e3f6b9d2098c69d4713f19076c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552835951103,
+            "changeTime": 1552835951103,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552835951438,
+            "changeTime": 1552835951438,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552835951120,
+            "changeTime": 1552835951120,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1552835951109,
+            "changeTime": 1552835951109,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1552835951113,
+            "changeTime": 1552835951113,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1552835951116,
+            "changeTime": 1552835951116,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1552835951119,
+            "changeTime": 1552835951119,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1552835951122,
+            "changeTime": 1552835951122,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 401270,
+            "modifiedTime": 1552835951215,
+            "changeTime": 1552835951215,
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 764787,
+            "modifiedTime": 1552835951226,
+            "changeTime": 1552835951226,
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402995,
+            "modifiedTime": 1552835951323,
+            "changeTime": 1552835951323,
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 764879,
+            "modifiedTime": 1552835951335,
+            "changeTime": 1552835951335,
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14106,
+            "modifiedTime": 1552835951347,
+            "changeTime": 1552835951347,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141125,
+            "modifiedTime": 1552835951437,
+            "changeTime": 1552835951437,
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 192417,
+            "modifiedTime": 1552835951447,
+            "changeTime": 1552835951447,
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1552835950703,
+            "changeTime": 1552835950703,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552801773123,
+            "changeTime": 1552801773123,
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1552801773125,
+            "changeTime": 1552801773125,
+            "contentHash": "e65046a4b6d971428b4caa7c48fb1c1e6e2766fa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552786617711,
+            "changeTime": 1552786617711,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
