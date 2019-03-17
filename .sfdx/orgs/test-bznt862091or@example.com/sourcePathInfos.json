@@ -2,14 +2,14 @@
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552777018066,
             "changeTime": 1552777018066,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552777018066,
             "changeTime": 1552777018066,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1552783439898,
-            "changeTime": 1552783439898,
-            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8"
+            "modifiedTime": 1552786503261,
+            "changeTime": 1552786503261,
+            "contentHash": "a523247ea547832cb42d0ed6de3fe3fa09b0cd64"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552777018066,
             "changeTime": 1552777018066,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552780482665,
             "changeTime": 1552780482665,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552780455873,
             "changeTime": 1552780455873,
             "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,144 +90,209 @@
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1552783439839,
             "changeTime": 1552783439839,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1552783439855,
             "changeTime": 1552783439855,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1552783439871,
             "changeTime": 1552783439871,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1552783439883,
             "changeTime": 1552783439883,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1552783439895,
             "changeTime": 1552783439895,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1552783439900,
             "changeTime": 1552783439900,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552783439835,
             "changeTime": 1552783439835,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552783439832,
             "changeTime": 1552783439832,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552783439831,
             "changeTime": 1552783439831,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552783439890,
             "changeTime": 1552783439890,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552783439899,
             "changeTime": 1552783439899,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4709,
+            "modifiedTime": 1552786503267,
+            "changeTime": 1552786503267,
+            "contentHash": "f6f06b19be55584d2ff3c461df9a16d66340e157"
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18840,
+            "modifiedTime": 1552786503298,
+            "changeTime": 1552786503298,
+            "contentHash": "8c633ef1cd43d656621f4f76935cf1e031d28f3f"
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5049,
+            "modifiedTime": 1552786503306,
+            "changeTime": 1552786503306,
+            "contentHash": "6dd4695cbf99522982354ae2491111785303136a"
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4713,
+            "modifiedTime": 1552786503313,
+            "changeTime": 1552786503313,
+            "contentHash": "a2adedf7df69431b8d05472e6980b9291f9eecd0"
+        }
+    ],
+    [
+        "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\saraa\\Documents\\Trailhead\\DX\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552786503311,
+            "changeTime": 1552786503311,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
